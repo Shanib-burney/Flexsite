@@ -139,7 +139,15 @@ footer{
    .service-container{
        align-items: center;
    }
+
+   #menu,#social-links{
+    
+    margin: 0 auto;
+   }
    h2{
        text-align: center;
+   }
+   main{
+       flex-direction: column;
    }
 }
